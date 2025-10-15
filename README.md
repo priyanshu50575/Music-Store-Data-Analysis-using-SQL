@@ -10,3 +10,4 @@ Analyzing the music store database using SQL. Interacting with the database usin
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/4094eda6-acfa-4d9a-8b80-28199bfc4565" />
 
 
+
